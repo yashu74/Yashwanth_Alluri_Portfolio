@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! I am an Associate Director in Product Engineerin
 
 ## About Me
 - **Email**: Yashu0704@gmail.com
-- **LinkedIn**: [LinkedIn Profile](#)
+- **LinkedIn**: [linkedin.com/in/alluri-yashwanth-techie](#)
 - **Specialization**: Software Architecture, Java, Cloud Technologies, Agile Methodologies
 
 ## Key Achievements
