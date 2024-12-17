@@ -1,6 +1,6 @@
 # Yashwanth_Alluri_Portfolio
 
-# Yashwanth Alluri - Technical Leader Portfolio
+# Yashwanth Alluri - Associate Director (Technical) Portfolio
 
 Welcome to my GitHub portfolio! I am an Associate Director in Product Engineering with over 14 years of experience in software development, team leadership, and project delivery. This repository highlights my key achievements, technical skills, and project contributions.
 
